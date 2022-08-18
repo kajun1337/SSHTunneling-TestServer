@@ -1,2 +1,14 @@
 # SSHTunneling-TestServer
-Test server for ssh tunneling and html screen you will see when successful
+
+![](https://github.com/kajun1337/SSHTunneling-TestServer/blob/main/success.jpg)
+
+------------
+
+| HOW TO USE  |   |
+| ------------ | ------------ |
+|  STEP 1 | Pull files to your server "git clone https://github.com/kajun1337/SSHTunneling-TestServer.git "|
+|  STEP 2 | Start python files "python pak.py" |
+
+
+------------
+
