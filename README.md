@@ -1,8 +1,12 @@
 # SSHTunneling-TestServer
 
+
+
 ![](https://github.com/kajun1337/SSHTunneling-TestServer/blob/main/success.jpg)
 
 ------------
+
+DEFAULT HTTP SERVER IP : PORT = 127.0.0.1:7777
 
 | HOW TO USE  |   |
 | ------------ | ------------ |
